@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I am a data scientist, and machine learning engineer, always excited to learn more and apply technology better. 
 
 <!--
 **Benjamin1118/Benjamin1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
